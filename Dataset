@@ -1,0 +1,5 @@
+ we will use the 20newsgroups dataset to construct a small training set with four newsgroup categories.
+ The objective is to build a model that can predict the newsgroup category for a given post. 
+ This will provide us an opportunity to see transformers in action on a relatively smaller training set, which is one of the powerful advantages of transfer learning.
+ 
+  Let’s fetch the 20newsgroups dataset using scikit-learn and load everything into arrays for the training and validation.
