@@ -1,0 +1,8 @@
+The Hugging Face transformers package is an immensely popular Python library providing pretrained models that are extraordinarily useful for a variety of natural language processing (NLP) tasks. 
+It previously supported only PyTorch, but, as of late 2019, TensorFlow 2 is supported as well.
+While the library can be used for many tasks from Natural Language Inference (NLI) to Question-Answering, text classification remains one of the most popular and practical use cases.
+
+The ktrain library is a lightweight wrapper for tf.keras in TensorFlow 2. 
+It is designed to make deep learning and AI more accessible and easier to apply for beginners and domain experts. 
+As of version 0.8, ktrain now includes a simplified interface to Hugging Face transformers for text classification.
+we will show you how you can build, train, and deploy a text classification model with Hugging Face transformers.
